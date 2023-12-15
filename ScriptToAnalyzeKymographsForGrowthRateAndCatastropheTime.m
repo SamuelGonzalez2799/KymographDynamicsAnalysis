@@ -1,5 +1,6 @@
+% Copyright Gonzalez 2023. 
 %The goal of this script is to analyze kymographs so that you can find the
-%growth rate, time to catastrophe, length at catastorphe, etc. 
+%growth rate, time to catastrophe, length at catastrophe, etc. 
 %%Need to make the code so it prints out each loop rather than at end...
 %we need to on a loop, read in a file, have the user click some points for
 %all growth events, and then print out data to excel. 
