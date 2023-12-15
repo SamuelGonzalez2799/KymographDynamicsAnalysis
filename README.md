@@ -6,8 +6,13 @@ This code was used to analyze the growth rate and time to catastrophe for cell f
 # List of to dos before making public:
 
 -[ ] figure out proper copyrights that are required
+
 -[ ] Add proper comments to clean up the file so it is easily readable for others
+
 -[ ] Provide relevant publications
+
 -[ ] Provide funding that contributed to this work
+
 -[ ] Provide example images to use
+
 -[ ] other things???
