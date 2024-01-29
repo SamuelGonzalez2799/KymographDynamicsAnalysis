@@ -8,12 +8,13 @@ This code was used to analyze the growth rate and time to catastrophe for cell f
 MATLAB by Mathworks
 
 ## Getting Started
+To get started, download this Github repository as a zipped file by downloading it from the "code" dropdown menu, unzip the file locally, and save it in an accessible location.  
 
-To use the code, download the script into the folder with your images to analyze. Of note, the script allows you to choose the next file each time and therefore it does not require all files to be named similarly. Of note, all inputs should be an RGB, max intensity projection kymograph. In our example images, we have the dynamic portion of the microtubue in Red with the microtubule seed and Mal3 in green; how it is labelled is not important for the analysis. Of note, the code assumes that the pixel size is 160 nm and the time between frames is 6 seconds. If either of these are different, change them at the start of the code to ensure the output is correct. Furthermore, choose the name you want for the outputFile (which will be an excel sheet). 
+To use the code, move the repository into the folder with your images to analyze. Of note, the script allows you to choose the next file each time and therefore it does not require all files to be named similarly. Of note, all inputs should be an RGB, max intensity projection kymograph. In our example images, we have the dynamic portion of the microtubue in Red with the microtubule seed and Mal3 in green; how it is labelled is not important for the analysis. Of note, the code assumes that the pixel size is 160 nm and the time between frames is 6 seconds. If either of these are different, change them at the start of the code to ensure the output is correct. Furthermore, choose the name you want for the outputFile (which will be an excel sheet). 
 
 ## Prerequisites
 
-Ensure Matlab is operational on your device. This code was generated to work with MATLAB 2022b.
+Ensure Matlab is operational on your device. This code was generated to work with MATLAB 2022b. This code should work for newer versions of Matlab. 
 
 ## Installation
 
